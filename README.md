@@ -1,4 +1,4 @@
-class Show < ActiveRecord::Base
+t class Show < ActiveRecord::Base
 end ## Objectives
 
 1. Create a table using ActiveRecord.
