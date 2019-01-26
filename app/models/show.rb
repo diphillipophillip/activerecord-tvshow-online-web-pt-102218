@@ -38,7 +38,7 @@ class Show < ActiveRecord::Base
   end 
   
   def Show.shows_by_alphabetical_order
-    seklf.order(:name)
+    self.order(:name)
   end
   
   
